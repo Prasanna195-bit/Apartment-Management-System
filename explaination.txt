@@ -1,0 +1,4 @@
+MINI PROJECT ON " APARTMENT MANAGEMENT SYSTEM"
+
+
+The main objective of “APARTMENT MANAGEMENT SYSTEM” is to help the users to manage the operations and activities of apartments. There will be a apartment database which stores all the data related to these various apartments, their maintenance related information etc. It helps to keep track of all the payments done by customers towards maintenance advances or purchases etc. This Application will ease the user to manage huge data of different customers who own apartments from the same builder. It will record the date of purchase, the amount paid, the mode of payment. It shall also have the data related to the installment  the user has opted for. It also records the mode of payment. It will also hold all the details such as the apartment number, the area of the house (sq. ft.) bought etc.
